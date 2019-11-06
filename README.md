@@ -1,1 +1,1 @@
-projet de test pour la formation m2i
+projet de test pour la formation jour 1 de m2i
